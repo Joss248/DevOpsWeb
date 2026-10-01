@@ -10,6 +10,7 @@ export const equipo = [
   // --- Integrante 1 ---
 
   // --- Integrante 2 ---
+   { nombre: "Alondra San Martín", rol: "Desarrolladora backend", github: "alo09hdz"},
 
   // --- Integrante 3 ---
 
