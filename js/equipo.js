@@ -13,7 +13,7 @@ export const equipo = [
    { nombre: "Alondra San Martín Hernandez", rol: "Desarrolladora backend", github: "alo09hdz"},
 
   // --- Integrante 3 ---
-  { nombre: "Prueba Rota", rol: "QA", github: "usuario con espacios" },
+  { nombre: "Prueba Rota", rol: "QA", github: "usuario-valido" },
 
   // --- Integrante 4 ---
 ];
